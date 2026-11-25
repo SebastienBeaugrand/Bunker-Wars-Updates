@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "application": "Bunker Wars",
+  "platform": "android",
+  "channel": "beta",
+  "version": "0.0.1",
+  "version_code": 1,
+  "published": false,
+  "mandatory": false,
+  "apk_url": null,
+  "sha256": null,
+  "release_notes": [],
+  "published_at": null
+}
