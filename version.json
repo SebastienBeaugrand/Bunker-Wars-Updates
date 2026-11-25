@@ -3,15 +3,16 @@
   "application": "Bunker Wars",
   "platform": "android",
   "channel": "beta",
-  "version": "0.0.4",
-  "version_code": 4,
+  "version": "0.0.5",
+  "version_code": 5,
   "published": true,
   "mandatory": false,
-  "apk_url": "https://github.com/SebastienBeaugrand/Bunker-Wars-Updates/releases/download/v0.0.4/BunkerWars-0.0.4.apk",
-  "sha256": "c63ef82145f53362296bb54e6acffb46c15cdff38103f992937602fbde8a24bf",
+  "apk_url": "https://github.com/SebastienBeaugrand/Bunker-Wars-Updates/releases/download/v0.0.5/BunkerWars-0.0.5.apk",
+  "sha256": "20ec327d9dd2728f97967de799d529b727f2b728d9548502572c2dd897404387",
   "release_notes": [
-    "Bonus PvP de 50 % sur l'XP et les crédits (préparation)",
-    "Test du système de mise à jour automatique"
+    "Animated battlefield splash screen",
+    "Interactive PLAY button with pressed state",
+    "Automatic update download and SHA-256 verification"
   ],
-  "published_at": "2026-11-25T17:09:24Z"
+  "published_at": "2026-11-25T20:27:21Z"
 }
