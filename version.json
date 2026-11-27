@@ -3,14 +3,14 @@
   "application": "Bunker Wars",
   "platform": "android",
   "channel": "beta",
-  "version": "0.0.8",
-  "version_code": 8,
+  "version": "0.0.9",
+  "version_code": 9,
   "published": true,
   "mandatory": false,
-  "apk_url": "https://github.com/SebastienBeaugrand/Bunker-Wars-Updates/releases/download/v0.0.8/BunkerWars-0.0.8.apk",
-  "sha256": "6baf5ab146e5b00704e8fd0179f9e39132d8c76e01b5b9b944ff53d3dd2d7320",
+  "apk_url": "https://github.com/SebastienBeaugrand/Bunker-Wars-Updates/releases/download/v.0.0.9/BunkerWars-0.0.9.apk",
+  "sha256": "33e5f5e22a2e515d8164a3125070b79b9d27f4a82035e8de273e7a3870148085",
   "release_notes": [
-    "Remote Nakama connection via HTTPS.",
-    "Updated client connection configuration."
+    "Fixed Nakama client authentication.",
+    "Updated stored client key without reinstalling the game."
   ]
 }
