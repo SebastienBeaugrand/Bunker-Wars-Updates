@@ -3,15 +3,14 @@
   "application": "Bunker Wars",
   "platform": "android",
   "channel": "beta",
-  "version": "0.0.6",
-  "version_code": 6,
+  "version": "0.0.8",
+  "version_code": 8,
   "published": true,
   "mandatory": false,
-  "apk_url": "https://github.com/SebastienBeaugrand/Bunker-Wars-Updates/releases/download/v0.0.6/BunkerWars-0.0.6.apk",
-  "sha256": "0202873633b9944b5483d24e862e6647c504a508ef7c3a94b12a11ccd4d742a4",
+  "apk_url": "https://github.com/SebastienBeaugrand/Bunker-Wars-Updates/releases/download/v0.0.8/BunkerWars-0.0.8.apk",
+  "sha256": "6baf5ab146e5b00704e8fd0179f9e39132d8c76e01b5b9b944ff53d3dd2d7320",
   "release_notes": [
-    "Custom Bunker Wars Android launcher icon",
-    "Godot boot splash disabled",
-    "Updated Android branding"
+    "Remote Nakama connection via HTTPS.",
+    "Updated client connection configuration."
   ]
 }
